@@ -26,4 +26,13 @@ O treinamento é um processo iterativo, e o modelo é ajustado várias vezes par
 
 ---
 
+## Link do projeto Front-End: https://github.com/mariananieton/SeuCanteiro
+## Link do projeto Back-End: https://github.com/FilipeJava/seucanteiro
+## Link do vídeo no YouTube:
 
+Ao baixar o projeto execute os seguintes comandos:
+
+```js
+pip install openai
+pip install requests
+```
