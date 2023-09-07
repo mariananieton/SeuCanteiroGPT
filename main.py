@@ -2,9 +2,9 @@ import funcoes
 
 while True:
     print("Escolha uma opção:")
-    print("1. Cenourinha GPT")
-    print("2. Consultar Clima")
-    print("3. Recomendação por Época")
+    print("1. Fazer pergunta sobre plantio, cultivo, etc.")
+    print("2. Consultar clima de uma cidade")
+    print("3. Recomendação de plantio por época")
     print("4. Sair")
 
     opcao = input("Digite o número da opção desejada: ")
