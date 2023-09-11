@@ -1,5 +1,12 @@
 # SeuCanteiroGPT
 
+## GRUPO TILLS
+RM93042 - FILIPE SANTOS DA SILVA
+RM94467 - FRANKLIN PEREIRA DO NASCIMENTO
+RM93915 - JAELSON JONAS DOS SANTOS
+RM92920 - JOSE GABRIEL DA SILVA COELHO
+RM94141 - MARIANA NIETON BORGES
+
 ## Arquitetura de IA do ChatGPT
 
 O ChatGPT é baseado na arquitetura GPT-3.5, uma versão da série de modelos GPT (Generative Pre-trained Transformer) desenvolvida pela OpenAI. Essa arquitetura utiliza a rede neural profunda chamada Transformer e é altamente capaz de processar sequências de texto para gerar respostas coerentes e contextuais em conversas.
@@ -28,7 +35,7 @@ O treinamento é um processo iterativo, e o modelo é ajustado várias vezes par
 
 ## Link do projeto Front-End: https://github.com/mariananieton/SeuCanteiro
 ## Link do projeto Back-End: https://github.com/FilipeJava/seucanteiro
-## Link do vídeo no YouTube:
+## Link do vídeo no YouTube: https://youtu.be/pKbdn67kjdg
 
 Ao baixar o projeto execute os seguintes comandos:
 
